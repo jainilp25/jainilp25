@@ -35,4 +35,4 @@ I am a third year Computer Science (Co-op) student at the University of Guelph. 
 
 ## Contact Me
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/jainilp25)
