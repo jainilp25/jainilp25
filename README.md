@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Jainil, Computer Science greaduate from the University of Guelph.
+I'm Jainil, a Computer Science graduate from the University of Guelph.
 
 ## Technical Skills
 
