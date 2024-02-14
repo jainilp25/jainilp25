@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm Jainil, a third year Computer Science student at the University of Guelph.
+I'm Jainil, Computer Science greaduate from the University of Guelph.
 
 ## Technical Skills
 
